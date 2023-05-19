@@ -1,0 +1,1 @@
+jdbc:mysql://localhost/parcial-iot?serverTimezone=UTC
